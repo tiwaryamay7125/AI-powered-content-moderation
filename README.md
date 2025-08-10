@@ -85,11 +85,12 @@ print(result)</code></pre>
     <p>If you would like to contribute to this project, feel free to fork the repository, make changes, and create a pull request. Any contributions to improve the accuracy or efficiency of the system are welcome!</p>
 
 <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+    <p>This project is licensed under the MIT License
 
 <h2>Acknowledgments</h2>
     <ul>
         <li>OpenAI for providing access to their powerful language models.</li>
         <li>Various libraries such as Pandas, OpenPyXL, and PDFPlumber that help handle data and generate reports.</li>
     </ul>
+
 
